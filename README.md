@@ -1,7 +1,3 @@
-# **Hi NextGen Team**
-
-I will write notes here about my work and also walk through a Loom when finished.
-
 1. Open an expo project (expo init _app-name_)
 2. Created an api-client folder and fetch function to check I am receiving data from the movie API
 3. Had to clean and manipulate the data (it was pretty terrible api data...) to only grab one movie, title, image, etc.
